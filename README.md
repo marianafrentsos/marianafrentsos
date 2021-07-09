@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kira. 
+- 👋 Hi, I’m Kira Dev. 
 - 👀 I’m interested in building applications and collaborating on different projects.
 - 🌱 I’m currently learning React. 
 - 💞️ I’m looking to collaborate on everything related to web development
